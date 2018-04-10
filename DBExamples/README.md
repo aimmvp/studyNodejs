@@ -2,9 +2,12 @@
 * mongo DB
 * mongoose
 * crypto
-* mysql install
+* mysql install(MAC)
   - Download dmg file(https://dev.mysql.com/downloads/file/?id=475582)
   - Development Tool for Mac : Sequel Pro (https://sequelpro.com/download#auto-start)
+
+* mysql install(Windows)
+  - Download MySQL Community Server installer Download(https://dev.mysql.com/downloads/mysql/)
 * mysql root password reset
   ```
     $ sudo /usr/local/mysql/support-files/mysql.server stop

@@ -1,7 +1,7 @@
 {
   "name": "expressexample",
   "version": "1.0.0",
-  "description": "",
+  "description": "* MongoDB Tool : Robomongo(Robo 3T)\r * mongo DB\r * mongoose\r * crypto\r * mysql install\r   - Download dmg file(https://dev.mysql.com/downloads/file/?id=475582)\r   - Development Tool for Mac : Sequel Pro (https://sequelpro.com/download#auto-start)\r * mysql root password reset\r   ```\r     $ sudo /usr/local/mysql/support-files/mysql.server stop\r     $ sudo /usr/local/mysql/support-files/mysql.server start --skip-grant-tables\r   ```\r   - in a new terminal\r   ```\r   $ sudo /usr/local/mysql/bin/mysql -u root\r   ```\r   ```\r   mysql> UPDATE mysql.user SET authentication_string=PASSWORD('New Password') WHERE User='root';\r   mysql> FLUSH PRIVILEGES;\r   mysql> \\q\r   ```\r   - in a old terminal\r   ```\r     $ sudo /usr/local/mysql/support-files/mysql.server stop\r   ```\r   - restart it in normal mode\r   ```\r     $ sudo /usr/local/mysql/support-files/mysql.server start\r   ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
