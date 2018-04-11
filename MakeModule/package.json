@@ -13,6 +13,7 @@
     "express": "^4.16.3",
     "express-error-handler": "^1.1.0",
     "express-session": "^1.15.6",
-    "mongoose": "^5.0.14"
+    "mongoose": "^5.0.14",
+    "semantic-ui": "^2.3.1"
   }
 }
